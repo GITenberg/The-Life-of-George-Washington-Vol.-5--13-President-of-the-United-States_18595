@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7912
     wikipedia: http://en.wikipedia.org/wiki/John_Marshall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18595#The-Life-of-George-Washington-Vol.-5--13-President-of-the-United-States
 gutenberg_issued: '2006-06-15'
 gutenberg_type: Text
 identifiers:
