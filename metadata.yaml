@@ -1,0 +1,31 @@
+_repo: The-Life-of-George-Washington-Vol.-5--13-President-of-the-United-States_18595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marshall, John
+    birthdate: 1755
+    deathdate: 1835
+    gutenberg_agent_id: '7912'
+    url: http://www.gutenberg.org/2009/agents/7912
+    wikipedia: http://en.wikipedia.org/wiki/John_Marshall
+description: ''
+gutenberg_issued: '2006-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington, George, 1732-1799'
+- !lcsh 'Generals -- United States -- Biography'
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcc 'E300'
+title: "The Life of George Washington, Vol. 5\r\nCommander in Chief of the American\
+  \ Forces During the War\r\nwhich Established the Independence of his Country and\
+  \ First\r\nPresident of the United States"
+url: http://www.gutenberg.org/ebooks/18595
